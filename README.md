@@ -1,4 +1,4 @@
-# portfolio
+My Portfolio
 
 I am a distinctly analytical and resourceful strategist, passionate about uncapping online growth. I have extensive enterprise and agency experience working with complex datasets to generate expert actionable strategies. My success has been demonstrated in Digital Marketing, Performance Analytics, and Data Visualization projects.
 
